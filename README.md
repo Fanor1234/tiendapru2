@@ -1,2 +1,4 @@
-# tiendapru2
-prueba2
+# tienda-prueba
+para prueba
+
+alpha chino

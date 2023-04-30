@@ -1,0 +1,1 @@
+web: gunicorn tiendamueble.wsgi --log-file -
